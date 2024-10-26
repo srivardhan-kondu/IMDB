@@ -15,7 +15,7 @@ The IMDb dataset contains **50,000** movie reviews with balanced classes for **p
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/IMDb-Review-Sentiment-Analysis.git
+   git clone https://github.com/srivardhan-kondu/IMDB.git
    ```
 2. **Install the required packages**:
    ```bash
@@ -57,3 +57,6 @@ Feel free to submit issues or pull requests. Enjoy exploring sentiment analysis 
 
 ### 📜 License
 This project is licensed under the MIT License.
+
+### ✍ Contact 
+srivardhan.kondu@gmail.com
