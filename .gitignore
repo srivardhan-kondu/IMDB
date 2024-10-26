@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+
+# Python coverage
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# TensorFlow and Keras
+logs/
+model_architecture.png
+
+# Miscellaneous
+*.DS_Store
+*.sublime-project
+*.sublime-workspace
